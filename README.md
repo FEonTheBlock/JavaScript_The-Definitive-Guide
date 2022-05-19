@@ -1,4 +1,4 @@
-# ⭐️ JavaScript_The-Definitive-Guide 스터디
+# ⭐️ 자바스크립트 완벽가이드 스터디
 
 ## 📚 교재
 
@@ -39,7 +39,7 @@
 ### 🛠 회의, 자료 툴
 
 - 회의: 게더타운
-- 자료: 깃허브([위키](https://github.com/FEonTheBlock/Effective-TypeScript/wiki), 이슈 등 적극활용!)
+- 자료: 깃허브([위키](https://github.com/FEonTheBlock/JavaScript_The-Definitive-Guide/wiki), 이슈 등 적극활용!)
 
 - 정리한거: pr로 올려서 조원들끼리 리뷰 남기기!
 
