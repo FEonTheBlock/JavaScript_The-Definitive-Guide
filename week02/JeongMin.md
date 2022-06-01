@@ -1,0 +1,9 @@
+# 정민 2주차 학습(5~8장)
+
+5장: https://velog.io/@hustle-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AC%B8
+
+6장: https://velog.io/@hustle-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C-%EA%B0%9D%EC%B2%B4
+
+7장: https://velog.io/@hustle-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%B0%B0%EC%97%B4
+
+8장: https://velog.io/@hustle-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C-%ED%95%A8%EC%88%98
