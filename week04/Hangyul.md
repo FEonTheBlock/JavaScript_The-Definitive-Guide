@@ -70,3 +70,39 @@
 - 제너레이터를 사용하여 싱글 스레드 JS를 스레드 협업시스템으로 만들 수 있다.
 - 제너레이터로 비동기 부분을 감싸면 프로그램을 동기적으로 보이게 할 수 있다.
     - `async` `await` 키워드의 등장으로 이렇게 활용할 이유는 이제 없어졌다.
+
+
+## Generator와 try/finally
+
+```javascript
+function* gen() {
+    try {
+       yield 1;
+        yield 2;
+        yield 3;
+    } catch(e) {
+      console.log("1st Error caught!");
+    }
+    try {
+       yield 4;
+        yield 5;
+        yield 6;
+    } catch(e) {
+      console.log("2nd Error caught!");
+    }
+}
+
+const g = gen(); 
+g.next(); 
+// {value: 1, done: false}
+g.throw(new Error("Something went wrong")); // "1st Error caught!"
+// {value: 4, done: false}
+g.next(); 
+//{value: 5, done: false}
+g.throw(new Error("Something went wrong")); // "2nd Error caught!"
+// {value: undefined, done: true}
+g.next();
+// {value: undefined, done: true}
+g.return();
+// {value: undefined, done: true}
+```
