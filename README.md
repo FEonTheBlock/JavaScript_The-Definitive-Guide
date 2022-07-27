@@ -44,7 +44,7 @@
 매주 1명씩 발표(퀄리티 있는 발표자료 준비)
 
 |          | 1번 | 2번 | 3번 | 4번 | 5번 | 6번 | 7번 | 8번 | 9번 | 10번 | 11번 | 12번 | 13번 | 
-|----------|------|------|------|------|------|
+|----------|----|----|----|----|----|----|----|----|----|----|----|----|----|
 | 발표자 | [이정민](https://github.com/hustle-dev) | [손원재](https://github.com/sonwonjae) | [박채영](https://github.com/coolchaeyoung) | [김지원](https://github.com/jiwonkim0131) | [이효원](https://github.com/hhhyyo) | [박바름](https://github.com/congaweb) | [이한결](https://github.com/hanana1253) | [임소형](https://github.com/sosoYim) | [윤석규](https://github.com/dbstjrrb12) | [이정훈](https://github.com/jhyj0521) | [서혜연](https://github.com/skojphy) | [박준규](https://github.com/jkpark104) | [강희](https://github.com/kheeyaa) |
 
 
